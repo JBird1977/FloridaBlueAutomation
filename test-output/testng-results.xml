@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7231" started-at="2020-07-21T12:54:08 EDT" finished-at="2020-07-21T12:54:16 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7231" started-at="2020-07-21T12:54:08 EDT" finished-at="2020-07-21T12:54:16 EDT">
+      <class name="test.FloridaBlueLoginTest">
+        <test-method status="PASS" signature="setupTest()[pri:0, instance:test.FloridaBlueLoginTest@2758fe70]" name="setupTest" is-config="true" duration-ms="3790" started-at="2020-07-21T12:54:08 EDT" finished-at="2020-07-21T12:54:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method status="PASS" signature="FloridaBlueLoginTest()[pri:0, instance:test.FloridaBlueLoginTest@2758fe70]" name="FloridaBlueLoginTest" duration-ms="2773" started-at="2020-07-21T12:54:12 EDT" finished-at="2020-07-21T12:54:15 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FloridaBlueLoginTest -->
+        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:test.FloridaBlueLoginTest@2758fe70]" name="tearDownTest" is-config="true" duration-ms="641" started-at="2020-07-21T12:54:15 EDT" finished-at="2020-07-21T12:54:16 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- test.FloridaBlueLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
