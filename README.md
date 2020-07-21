@@ -6,7 +6,7 @@ To run this test on your system, please consider the following:
 1. You'll want to download chromedriver.exe and add it to the project - making sure to download the version that matches your current version of Chrome.
 2. At the time of this writing this program uses Selenium 3.14.159. 
 3. Guava version 29 is added as a Maven dependency.
-4. You will also want to download and add TestNG to the project as well. Although I have it added as a Maven Dependency I've found that it doesn't actually show up as an option to run until it is downloaded and installed into t
+4. You will also want to download and add TestNG to the project as well. Although I have it added as a Maven Dependency I've found that it doesn't actually show up as an option to run until it is downloaded and installed into the program.
 
 
 ===THE TESTS===
